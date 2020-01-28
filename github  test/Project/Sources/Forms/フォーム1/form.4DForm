@@ -36,13 +36,13 @@
 		},
 		{
 			"objects": {
-				"Button": {
+				"ボタン": {
 					"type": "button",
 					"text": "Button",
 					"top": 194,
 					"left": 337,
 					"width": 212,
-					"height": 90,
+					"height": 400,
 					"events": [
 						"onClick"
 					]
